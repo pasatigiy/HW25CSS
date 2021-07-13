@@ -1,0 +1,61 @@
+.butt{
+    background-color: white;
+    border-radius: 10px;
+    border-color: black;
+    width: 100px;
+
+}
+.butt:hover{
+    background-color: black;
+    color: white;
+    border-color: gold;
+
+}
+.image{
+    border-radius: 50%;
+    border-color: aqua;
+    border-width: 5px;
+    border-style: solid;
+
+}
+.image:hover{
+    border-color: red;
+}
+.div1{
+    color: black;
+    width: 400px;
+    height: 300px;
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+.div2{
+    color: black;
+    width: 180px;
+    height: 250px;
+    background-color: chocolate;
+    border-radius: 20px;
+    margin-top: 10px;
+    float: left;
+
+}
+.div2:hover{
+    background-color: black;
+    color: white;
+
+}
+
+.div3{
+    color: black;
+    width: 180px;
+    height: 250px;
+    background-color: chocolate;
+    border-radius: 20px;
+    margin-top: 10px;
+    float: right;
+
+}
+.div3:hover{
+    background-color: black;
+    color: white;
+
+}
